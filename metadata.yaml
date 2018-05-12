@@ -1,0 +1,58 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-12--of-12-Dresden-Edition-Miscellany_38812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: Prof. Van Buren Denslow's "Modern Thinkers" -- Preface to Dr. Edgar
+  C. Beall's "The Brain and the Bible" -- Preface to "Men, Women and Gods" -- Preface
+  to "For Her Daily Bread" -- Preface to "Agnosticism and Other Essays" -- Preface
+  to "Faith or Fact" -- The Grant banquet -- Thirteen Club dinner -- Robson and Crane
+  dinner -- The Police Captains' dinner -- General Grant's birthday dinner -- Lotos
+  Club dinner, twentieth anniversary -- Manhattan Athletic Club dinner -- The Liederkranz
+  Club, Seidl-Stanton banquet -- The Frank B. Carpenter dinner -- Unitarian Club dinner
+  -- Western Society of the Army of the Potomac banquet -- Lotos Club dinner in honor
+  of Anton Seidl -- Lotos Club dinner in honor of Rear Admiral Schley -- Address to
+  the Actors' Fund of America -- The children of the stage -- Address to the Press
+  Club -- The circulation of obscene literature -- Convention of the National Liberal
+  League -- Convention of the American Secular Union -- The religious belief of Abraham
+  Lincoln -- Organized charities -- Spain and the Spaniards -- Our new possessions
+  -- A few fragments on expansion -- Is it ever right for husband or wife to kill
+  rival? -- Professor Briggs -- Fragments -- Effect of the World's Fair on the human
+  race -- Sabbath superstition -- A tribute to George Jacob Holyoake -- At the grave
+  of Benjamin W. Parker -- A tribute to Ebon C. Ingersoll -- A tribute to the Rev.
+  Alexander Clark -- At a child's grave -- A tribute to John G. Mills -- A tribute
+  to Elizur Wright -- A tribute to Mrs. Ida Whiting Knowles -- A tribute to Henry
+  Ward Beecher -- A tribute to Roscoe Conkling -- A tribute to Richard H. Whiting
+  -- A tribute to Courtlandt Palmer -- A tribute to Mrs. Mary H. Fiske -- A tribute
+  to Horace Seaver -- A tribute to Lawrence Barrett -- A tribute to Walt Whitman --
+  A tribute to Philo D. Beckwith -- A tribute to Anton Seidl -- A tribute to Dr. Thomas
+  Seton Robertson -- A tribute to Thomas Corwin -- A tribute to Isaac H. Bailey --
+  Jesus Christ -- Life.
+title: 'The Works of Robert G. Ingersoll, Vol. 12 (of 12)
+
+  Dresden Edition—Miscellany'
+url: http://www.gutenberg.org/ebooks/38812
